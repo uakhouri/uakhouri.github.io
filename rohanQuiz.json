@@ -1,0 +1,22 @@
+{
+  "quiz": [
+    {
+      "title": "Who is the president of United States of America",
+      "optionA": "Barack Obama",
+      "optionB": "Joe Biden",
+      "optionC": "Donald Trump",
+      "optionD": "Hillary Clinton",
+      "correctAns": "optionB",
+      "questionPic": " "
+    },
+    {
+      "title": "Which of the following cities fall under NCR",
+      "optionA": "Bangalore",
+      "optionB": "Mumbai",
+      "optionC": "New Delhi",
+      "optionD": "Chennai",
+      "correctAns": "optionC",
+      "questionPic": " "
+    }
+  ]
+}
