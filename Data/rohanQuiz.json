@@ -17,6 +17,78 @@
       "optionD": "Chennai",
       "correctAns": "optionC",
       "questionPic": " "
+    },
+    {
+      "title": "Bombay, Delhi, Chennai, Chandigarh. Organize these cities from northmost to southmost, with the first city being northmost.",
+      "optionA": "Mumbai, Delhi, Chennai, Chandigarh",
+      "optionB": "Delhi, Chandigarh, Mumbai, Chennai",
+      "optionC": "Chandigarh, Delhi, Chennai, Mumbai",
+      "optionD": "Chandigarh, Delhi, Mumbai,Chennai",
+      "correctAns": "optionD",
+      "questionPic": " "
+    },
+    {
+      "title": "The water molecules has how many oxygens per molecule",
+      "optionA": "1",
+      "optionB": "2",
+      "optionC": "3",
+      "optionD": "4",
+      "correctAns": "optionB",
+      "questionPic": ""
+    },
+    {
+      "title": "What is the latest strain of covid called",
+      "optionA": "Delta",
+      "optionB": "Gamma",
+      "optionC": "Omicron",
+      "optionD": "Deceptagon",
+      "correctAns": "optionC",
+      "questionPic": ""
+    },
+    {
+      "title": "Which of the following is not an Italian Food dish",
+      "optionA": "Tacos",
+      "optionB": "Pizza",
+      "optionC": "Pasta",
+      "optionD": "Lasagne",
+      "correctAns": "optionA",
+      "questionPic": ""
+    },
+    {
+      "title": "Stomach, Nose, Knees, Chin. From topmost to bottommost, organize these bodyparts with topmost going first.",
+      "optionA": "Nose, Knees, Chin, Stomach",
+      "optionB": "Knees, Chin, Nose, Stomach",
+      "optionC": "Nose, Chin, Stomach, Knees",
+      "optionD": "Chin, Nose, Stomach, Knees",
+      "correctAns": "optionC",
+      "questionPic": ""
+    },
+    {
+      "title": "Lewis Hamilton is the athelete of which of the following sports",
+      "optionA": "Golf",
+      "optionB": "Football",
+      "optionC": "Basketball",
+      "optionD": "Formula 1",
+      "correctAns": "optionD",
+      "questionPic": ""
+    },
+    {
+      "title": "Which of the following companies is not a subsidiary of Meta",
+      "optionA": "Facebook",
+      "optionB": "Snapchat",
+      "optionC": "Instagram",
+      "optionD": "WhatsApp",
+      "correctAns": "optionB",
+      "questionPic": ""
+    },
+    {
+      "title": "How many grand slams do Roger Federer , Rafael Nadal and Novak Djokovic each have",
+      "optionA": "22",
+      "optionB": "18",
+      "optionC": "20",
+      "optionD": "21",
+      "correctAns": "optionC",
+      "questionPic": ""
     }
   ]
 }
